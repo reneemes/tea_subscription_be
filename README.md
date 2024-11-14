@@ -26,9 +26,9 @@ The user can interact with the subscriptions list by clicking on individual subs
 6. Run `npm install`
 7. Run `npm start`
 8.  Enter `control + c` in your terminal to stop running the React app at any time
-<!-- 9. To run Cypress tests, use `npx cypress open` -->
+9. To run Cypress tests, use `npx cypress open`
 
-<!-- <h2 align="center"> Usage </h2> -->
+
 
 ### Preview of App:
 [//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off. gifs preferred!)
